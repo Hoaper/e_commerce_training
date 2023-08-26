@@ -12,10 +12,6 @@ export default function RootPage() {
         }
     }, [isOpen, onOpen]);
 
-    return (
-        <div className="p-2">
-            Root page
-        </div>
-    )
+    return null;
 }
   
